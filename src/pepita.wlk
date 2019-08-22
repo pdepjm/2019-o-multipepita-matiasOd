@@ -219,7 +219,7 @@ object marDelPlata{
 
 /* 
  * ¿Quién tiene la responsabilidad de saber si Mar del Plata está en temporada alta o baja? ¿Cómo se cambia de temporada?
- * La responsabilidad seria de quien use la consola, se puede cambiar con el metodo cambiarDeTemporada
+ * La responsabilidad seria de quien use la consola, se puede cambiar con el metodo cambiarDeTemporada.
  */
  
  
