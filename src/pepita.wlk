@@ -50,14 +50,14 @@ object pepita {
 			self.vola(8)
 		
 	}
-	
+	/*
 	method visitar(destino){
 		energia += destino.energiaRevitalizadora()
 	}
 	method visitar(noroesteArgentino){
 		energia += destino.energiaRevitalizadora(energia)
 	}
-	
+	*/
 	
 }
 
@@ -144,6 +144,8 @@ object roque {
 	}
 }
 
+// Comento todo lo del punto 4 y 5 porque no habia que hacerlo todavia
+/*
 object pepon {
 	var energia = 0
 
@@ -217,10 +219,10 @@ object marDelPlata{
 	} 
 }
 
-/* 
- * ¿Quién tiene la responsabilidad de saber si Mar del Plata está en temporada alta o baja? ¿Cómo se cambia de temporada?
- * La responsabilidad seria de quien use la consola, se puede cambiar con el metodo cambiarDeTemporada.
- */
+
+//¿Quién tiene la responsabilidad de saber si Mar del Plata está en temporada alta o baja? ¿Cómo se cambia de temporada?
+//La responsabilidad seria de quien use la consola, se puede cambiar con el metodo cambiarDeTemporada.
+ 
  
  
  object noroesteArgentino {
@@ -245,3 +247,4 @@ object marDelPlata{
 		return pupilo
 	}
 }
+*/
